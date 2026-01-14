@@ -1,5 +1,6 @@
 # Warstwa fizyczna mechaniki kwantowej: pole informacyjne rzeczywistości
 **Autor:** Andrzej Orzechowski
+
 ##Abstrakt (PL)
 Książka przedstawia próbę sformułowania **warstwy fizycznej mechaniki kwantowej**: poziomu pośredniego między tym, co faktycznie dzieje się w świecie (i w pomiarach), a tym, co opisuje formalizm teorii. Zamiast traktować QM jako aksjomat, ujęcie interpretuje ją jako **efektywny „cień”** wynikający z ograniczeń operacyjnych (skończona rozdzielczość, lokalność oddziaływań, niepełny dostęp do stopni swobody oraz utrata informacji).Ważną rolę odgrywają **dynamiki z pamięcią** (językiem jąder pamięci i opisów projekcyjnych), a także opis przepływu informacji i relacji za pomocą narzędzi grafowych i spektralnych (m.in. laplasjan grafowy) oraz pojęcia efektywnej metryki i stożka osiągalności.
 ## Abstract (EN)
