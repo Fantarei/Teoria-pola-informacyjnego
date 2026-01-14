@@ -1,2 +1,2 @@
 # Teoria-pola-informacyjnego
-Książka (LyX/PDF) opisująca teorię pola informacyjnego w koteksście mechaniki kwantowej + materiały źródłowe.
+Książka (PDF) opisująca teorię pola informacyjnego w kontekście mechaniki kwantowej + materiały źródłowe.
